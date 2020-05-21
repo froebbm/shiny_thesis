@@ -1,0 +1,35 @@
+Variable,OR,SE,VIF,OR,SE
+"AGI, in 2019 Dollars",1,0,1.746,1,0.36
+Change in AGI,1,0,1.779,1,0.36
+Age,0.978****,0.003,1.145,0.976****,0.352
+Entered a Relationship,1.387,0.447,NA,1.397,0.503
+Dissolved a Relationship,2.450***,0.762,NA,2.586***,0.931
+Child Aged Out,1.087,0.168,NA,1.087,0.391
+Had Child,1.199,0.199,NA,1.168,0.42
+Number of Dependents,0.961,0.045,1.27,0.968,0.349
+Race,,,,,
+    African American,1.320*,0.213,NA,1.363*,0.491
+    Hispanic,0.973,0.17,NA,0.983,0.354
+    Multi-Racial,0.86,0.183,NA,0.84,0.303
+    Native American,1.395,0.581,NA,1.522,0.548
+    Other,1.215,0.424,NA,1.24,0.446
+    White,1.052,0.192,NA,1.058,0.381
+Graduated Highschool,0.781**,0.079,NA,0.759**,0.273
+Disability Status,,,,,
+    Disabled,1.094,0.493,NA,1.057,0.381
+    Lost Disability Benefits,1.184,0.6,NA,1.148,0.413
+    Not Disabled,1.355,0.597,NA,1.366,0.492
+Gender,,,,,
+    Male,1.097,0.089,NA,1.101,0.396
+    Trans,0.92,0.989,NA,0.914,0.329
+Within 0.5 km,,,,,
+    Commercial Permits,1.002***,0.001,1.941,1.002**,0.361
+    Residential Permits,1,0.001,1.338,1,0.36
+    Mixed Use Permits,0.997,0.002,3.154,0.997,0.359
+Within 0.1 km,,,,,
+    Violent Crimes Reported,1.023****,0.005,2.388,1.025****,0.369
+    Non-Violent Crimes Reported,0.987****,0.002,2.407,0.986****,0.355
+Evictions in Census Tract,1.002,0.003,1.183,1.001,0.361
+Estimated Rent Per Bedroom,1,0,1.951,1,0.36
+Pseudo -R2,0.921,,,,
+AIC,5177.2,,,5149,
